@@ -1,3 +1,3 @@
 FROM tomcat:8.0.20-jre8
 # Dummy text to test 
-COPY target/bala*.war /usr/local/tomcat/webapps/bala.war
+COPY target/java-web-app-1.0*.war /usr/local/tomcat/webapps/java-web-app-1.0.war
